@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="UnusedResources">
+    <string name="app_name">ClassLog</string>
+    <string name="nav_today">Today</string>
+    <string name="nav_records">Records</string>
+    <string name="nav_summary">Summary</string>
+    <string name="nav_setup">Setup</string>
+
+    <string name="quick_repeat">QUICK REPEAT</string>
+    <string name="work_type">WORK TYPE</string>
+    <string name="batch">BATCH</string>
+    <string name="time_label">TIME</string>
+    <string name="note_optional">Note (optional)</string>
+    <string name="save">Save</string>
+    <string name="save_and_add">Save + add</string>
+
+    <string name="teaching">Teaching</string>
+    <string name="office_work">Office Work</string>
+    <string name="maintenance">Maintenance</string>
+    <string name="admission">Admission</string>
+    <string name="billing">Billing</string>
+    <string name="exam_duty">Exam Duty</string>
+    <string name="other">Other</string>
+</resources>
